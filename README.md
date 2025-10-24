@@ -1,1 +1,1 @@
-# RandomPassgen
+# RanPASSgen
